@@ -3,8 +3,8 @@
  * mouseenter
  */
 
-var within = require('within')
-var events = require('event')
+var within = require('stagas-within')
+var events = require('component-event')
 
 module.exports = mouseenter
 
